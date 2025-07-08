@@ -1,19 +1,37 @@
----
+# 🤖 NologyBot - WhatsApp Bot (Simple TypeScript)
 
-## 🌱 Tetap Tumbuh & Berbagi
-
-Terima kasih telah mencoba NologyBot!  
-Script ini gratis untuk dipelajari, dimodifikasi, dan dibagikan selama tetap menjaga etika komunitas.
-
-- 🚫 Jangan jual script ini.
-- 💡 Silakan kembangkan dan kontribusikan ide-ide baru.
-- 📩 Butuh bantuan? Hubungi saya kapan saja!
-
-**Copyright © 2025 Gpt Anomali**  
-Email: anomaligpt5@gmail.com
+Bot WhatsApp ringan dan mudah digunakan, cocok untuk pemula yang ingin belajar membuat bot sendiri.
 
 ---
 
-> "Belajar bareng, ngulik bareng, sukses bareng!"
+## ✨ Fitur Utama
+
+- ✅ Support tombol WhatsApp (tergantung versi `Baileys`)
+- 🧠 Pakai TypeScript & JavaScript  
+  ![TS](https://img.shields.io/badge/TypeScript-blue?logo=typescript) 
+  ![JS](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+- 💡 Sangat simpel dan mudah dipahami
+- 🔒 Tidak 100% terenkripsi
+- ⚙️ Fokus untuk plugin WhatsApp
+- 🔁 Login hanya lewat QR Code
 
 ---
+
+## ⚠️ Catatan
+
+- Tidak ada **backdoor**
+- **Tidak untuk dijual**
+- Bebas tambahkan fitur sendiri
+
+> Skrip ini dibuat agar kamu bisa belajar bikin bot dari dasar.
+
+---
+
+## 👤 Pembuat
+
+**Gpt Anomali**  
+📧 anomaligpt5@gmail.com
+
+---
+
+Selamat belajar dan selamat ngoprek bot kamu! 🚀
