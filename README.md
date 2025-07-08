@@ -38,24 +38,3 @@ Skrip ini:
 
 > “Base script ini dikembangkan untuk pengguna yang ingin mencoba membangun bot dari dasar. Sederhana, transparan, dan mudah diutak-atik.”
 
----
-
-## 👨‍💻 Cocok Untuk
-
-- 🧑‍🎓 Pemula yang ingin belajar membuat bot WhatsApp
-- 🧪 Developer yang butuh base script bersih untuk eksperimen
-- 🎥 Pembuat konten atau edukator yang butuh skrip contoh untuk tutorial
-
----
-
-## 📥 Kontribusi & Pengembang
-
-Script ini dibuat dan dikembangkan oleh:
-
-**👤 Gpt Anomali**  
-📧 anomaligpt5@gmail.com  
-🔗 GitHub / Platform lain: _(opsional, tambahkan jika ada link)_
-
-Terima kasih telah menggunakan NologyBot. Semoga bermanfaat dan terus berkembang bersama komunitas!
-
----
