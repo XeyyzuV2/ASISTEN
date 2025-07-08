@@ -30,8 +30,8 @@ Bot WhatsApp ringan dan mudah digunakan, cocok untuk pemula yang ingin belajar m
 ## 👤 Pembuat
 
 **Gpt Anomali**  
-WhatsApp: [+62 812-3456-7890](https://wa.me/6281234567890)  
-Saluran WhatsApp: [Klik untuk Gabung](https://whatsapp.com/channel/linkmu)  
+WhatsApp: [+6282132710183](https://wa.me/6282132710183)  
+Saluran WhatsApp: [Followme](https://www.whatsapp.com/channel/0029VawsCnQ9mrGkOuburC1z?utm_medium=social&utm_source=heylink.me)  
 Instagram: [@fauzialifatah_](https://instagram.com/fauzialifatah_)
 
 ---
