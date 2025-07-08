@@ -23,7 +23,7 @@ Bot WhatsApp ringan dan mudah digunakan, cocok untuk pemula yang ingin belajar m
 - **Tidak untuk dijual**
 - Bebas tambahkan fitur sendiri
 
-> Skrip ini dibuat agar kamu bisa belajar bikin bot dari dasar.
+> Script ini dibuat agar kamu bisa belajar bikin bot dari dasar.
 
 ---
 
