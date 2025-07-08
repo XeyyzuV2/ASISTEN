@@ -30,10 +30,9 @@ Bot WhatsApp ringan dan mudah digunakan, cocok untuk pemula yang ingin belajar m
 ## 👤 Pembuat
 
 **Gpt Anomali**  
-📧 Email: anomaligpt5@gmail.com  
-📱 WhatsApp: [+62 812-3456-7890](https://wa.me/6281234567890)  
-📢 Saluran WhatsApp: [Klik untuk Gabung](https://whatsapp.com/channel/linkmu)  
-📷 Instagram: [@anomali.gpt](https://instagram.com/anomali.gpt)
+WhatsApp: [+62 812-3456-7890](https://wa.me/6281234567890)  
+Saluran WhatsApp: [Klik untuk Gabung](https://whatsapp.com/channel/linkmu)  
+Instagram: [@anomali.gpt](https://instagram.com/anomali.gpt)
 
 ---
 
