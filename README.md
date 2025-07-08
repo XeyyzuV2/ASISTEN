@@ -1,40 +1,30 @@
-# 🪪 NologyBot - WhatsApp Base (Simple TypeScript)
+---
 
-NologyBot adalah bot WhatsApp berbasis TypeScript yang ringan, sederhana, dan mudah dipahami. Cocok untuk belajar, eksplorasi, dan pengembangan awal.
+## 🏁 Penutup & Lisensi
+
+Terima kasih telah menggunakan **NologyBot**!  
+Script ini dibuat sebagai fondasi untuk pembelajaran, eksplorasi teknologi WhatsApp Bot, serta berbagi pengetahuan di komunitas.
+
+**Lisensi & Etika Penggunaan**
+- 🚫 Dilarang diperjualbelikan dalam bentuk apa pun.  
+- 🤝 Silakan digunakan, dimodifikasi, dan dibagikan secara bebas untuk tujuan belajar dan pengembangan pribadi.  
+- 👤 Segala bentuk kontribusi, saran, atau _pull request_ sangat dihargai.
+- ⚠️ Segala penggunaan & pengembangan lanjutan adalah tanggung jawab masing-masing pengguna.
+
+**Hak Cipta © 2025 [Gpt Anomali](mailto:anomaligpt5@gmail.com)**  
+GitHub/Platform Lain: _(tambahkan link jika ada)_
 
 ---
 
-## 📌 Fitur Utama
-
-- ✅ **Dukungan Tombol WhatsApp**  
-  Bergantung pada versi library `Baileys` yang kamu gunakan. Kompatibilitas bisa berbeda-beda.
-
-- 🧠 **Ditulis dalam TypeScript & JavaScript**  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-  Gunakan bahasa yang paling kamu kuasai!
-
-- 🧩 **Ringan & Mudah Dipahami**  
-  Basis kode dibuat seminimal mungkin agar mudah dipelajari dan dikembangkan.
-
-- 🔒 **Tanpa Enkripsi 100%**  
-  Skrip ini tidak memiliki sistem enkripsi menyeluruh. Fokus pada transparansi dan kemudahan akses.
-
-- ⚙️ **Fokus pada Plugin WhatsApp**  
-  Struktur mendukung integrasi plugin sederhana untuk memperluas fitur.
-
-- 🔁 **Login Hanya dengan QR Code**  
-  Tidak mendukung metode login lain seperti auth token atau multi-device session.
+> “Jadikan script ini sebagai pijakan, bukan tujuan akhir. Belajar, berbagi, dan tumbuh bersama komunitas teknologi!”
 
 ---
 
-## ⚠️ Catatan Penting
+### 📬 Kontak & Komunitas
 
-Skrip ini:
+- Email: anomaligpt5@gmail.com  
+- Telegram/Discord: _(tambahkan jika ada)_  
+- Kunjungi GitHub untuk update & kontribusi
 
-- ❌ **Tidak mengandung backdoor** dalam bentuk apa pun.
-- 🚫 **Dilarang diperjualbelikan**. Ini adalah proyek terbuka yang ditujukan untuk pembelajaran.
-- 🛠️ **Silakan tambah fitur sesuka hati**. Segala penambahan adalah hak dan tanggung jawab kamu sendiri.
-
-> “Base script ini dikembangkan untuk pengguna yang ingin mencoba membangun bot dari dasar. Sederhana, transparan, dan mudah diutak-atik.”
+---
 
