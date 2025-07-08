@@ -33,7 +33,7 @@ Bot WhatsApp ringan dan mudah digunakan, cocok untuk pemula yang ingin belajar m
 
 WhatsApp: [+6282132710183](https://wa.me/6282132710183)  
 Saluran WhatsApp: [Followme](https://www.whatsapp.com/channel/0029VawsCnQ9mrGkOuburC1z?utm_medium=social&utm_source=heylink.me)  
-Instagram: [@fauzialifatah_](https://instagram.com/fauzialifatah_)
+Instagram: [@fauzialifatah_](https://instagram.com/fauzialifatah_)  
 YouTube: [Fauzialifatah](https://www.youtube.com/@Fauzialifatah)
 
 ---
